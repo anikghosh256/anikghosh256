@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](dino.gif)
+![](ungala.gif)
 
 
 <!--
